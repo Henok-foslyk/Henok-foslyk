@@ -25,7 +25,7 @@ When I’m not coding, I enjoy exploring new technologies, connecting with peopl
 
 ## **Pinned Repositories**
 
-### 1. **news-copilot-ml**  
+### 1. **News-Copilot-ML**  
 **Description**: A machine learning-powered news categorization tool that reduces labeling time by 80%.  
 **Skills**: Python, NLP, Flask, Data Visualization.  
 
