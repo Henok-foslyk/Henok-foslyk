@@ -25,13 +25,13 @@ When I’m not coding, I enjoy exploring new technologies, connecting with peopl
 
 ## **Pinned Repositories**
 
-### 1. **News-Copilot-ML**  
+### 1. **news-copilot-ml**  
 **Description**: A machine learning-powered news categorization tool that reduces labeling time by 80%.  
 **Skills**: Python, NLP, Flask, Data Visualization.  
 
-### 2. **ArtScript**  
+### 2. **art-script**  
 
-### 3. **FlipBook**  
+### 3. **flip-book**  
 **Description**: A Go-based ride-matching application using Google Maps API for drivers and riders.  
 **Skills**: Go, Google Maps API, Backend Engineering.  
 
